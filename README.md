@@ -39,4 +39,4 @@ http://localhost:8003/chat
 
 
 ## Video Example
-[![Watch the video](https://img.youtube.com/vi/7bD1tE9KA8/default.jpg)](https://youtu.be/7bD1tE9KA8)
+[![Watch the video](https://voyager.postman.com/screen/postman-download-page-screenshot-v11.svg)](https://www.youtube.com/watch?v=_7bD1tE9KA8)
