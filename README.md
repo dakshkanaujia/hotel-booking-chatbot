@@ -39,5 +39,4 @@ http://localhost:8003/chat
 
 
 ## Video Example
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/UCW8DCByIFHu9UMOU5T9Q6Lg/0.jpg)](http://www.youtube.com/watch?v=UCW8DCByIFHu9UMOU5T9Q6Lg "Video Title")
-
+[![Watch the video](https://img.youtube.com/vi/7bD1tE9KA8/default.jpg)](https://youtu.be/7bD1tE9KA8)
