@@ -36,3 +36,8 @@ http://localhost:8003/chat
     "Content" : "Hello, how are you"
 }
 ``` 
+
+
+## Video Example
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/UCW8DCByIFHu9UMOU5T9Q6Lg/0.jpg)](http://www.youtube.com/watch?v=UCW8DCByIFHu9UMOU5T9Q6Lg "Video Title")
+
