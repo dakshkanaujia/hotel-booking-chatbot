@@ -1,7 +1,5 @@
 # Project Title
 
-## Description
-A brief description of what your project does.
 
 ## Installation
 Instructions on how to install and set up the project.
