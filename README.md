@@ -37,4 +37,4 @@ http://localhost:8003/chat
 
 
 ## Working model video via postman
-<a href="https://www.youtube.com/watch?v=_7bD1tE9KA8" target="_blank">Watch the Video here!...</a>
+<a href="https://www.youtube.com/channel/UCW8DCByIFHu9UMOU5T9Q6Lg" target="_blank">Watch the Video here!...</a>
