@@ -38,5 +38,7 @@ http://localhost:8003/chat
 ``` 
 
 
-## Video Example
-[![Watch the video](https://voyager.postman.com/screen/postman-download-page-screenshot-v11.svg)](https://www.youtube.com/watch?v=_7bD1tE9KA8)
+
+<a href="https://www.youtube.com/watch?v=_7bD1tE9KA8" target="_blank">
+ <img src="https://voyager.postman.com/screen/postman-download-page-screenshot-v11.svg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
