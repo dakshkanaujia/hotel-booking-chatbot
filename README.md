@@ -6,7 +6,7 @@ Instructions on how to install and set up the project.
 
 ```sh
 # Command to run backend
-git clone https://github.com/dakshkanaujia/dukaan-assignment.git
+git clone https://github.com/dakshkanaujia/hotel-booking-chatbot.git
 cd backend
 npm install
 npm install -d nodemon cors express openai sqlite sequelize dotenv
